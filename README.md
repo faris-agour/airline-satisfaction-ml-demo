@@ -3,7 +3,7 @@
 This project predicts passenger satisfaction (`satisfied` vs `neutral or dissatisfied`) using classical ML models.
 
 ## Project Files
-- `DT_TASK.ipynb`: presentation-ready notebook (EDA, preprocessing, outlier handling, modeling, tuning, evaluation)
+- `ML_Project.ipynb`: presentation-ready notebook (EDA, preprocessing, outlier handling, modeling, tuning, evaluation)
 - `app.py`: Streamlit deployment app
 - `rebuild_artifact.py`: rebuilds the final model artifact from data
 - `best_model.joblib`: saved model + preprocessing metadata
